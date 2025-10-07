@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at message_cracker.sv(42): always construct contains both blocking and non-blocking assignments File: C:/Users/syafi/OneDrive/Documents/cpen311/lab4/template_de1soc/message_cracker.sv Line: 42
